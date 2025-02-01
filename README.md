@@ -2,6 +2,8 @@
 
 This project showcases an editable textarea that supports syntax highlighting, tab spaces, and features for toggling fullscreen mode. It is designed to allow users to edit code within a `textarea` while automatically highlighting the syntax, providing a seamless and user-friendly coding experience.
 
+Live Preview: https://makalin.github.io/textsynt/
+
 ## Features
 
 - **Syntax Highlighting**: Automatically highlights syntax within the textarea for improved readability and code editing experience.
