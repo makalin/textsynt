@@ -29,11 +29,11 @@ Ensure you have a modern web browser to view the project and have a stable inter
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/your-username/textarea-tabs-syntax.git
+   git clone https://github.com/makalin/textsynt.git
    ```
 2. Navigate to the project directory:
    ```bash
-   cd textarea-tabs-syntax
+   cd textsynt
    ```
 3. Open `index.html` in a web browser to view the editor.
 
